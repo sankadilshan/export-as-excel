@@ -1,3 +1,7 @@
+#export to excel angular
+In this case u can  export complex json as excel for one sheet , u can export separate table with separate headers
+
+
 # Sample
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.12.
